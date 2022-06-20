@@ -19,7 +19,7 @@ section {
 
 section.top {
   background-color: white;
-  background-image: url("https://tedask.jp/wp-content/uploads/2018/09/Uninitialized-string-offset-0.jpg");
+  background-image: url(/img/logo2.png);
   background-repeat: no-repeat;
   background-size: 500px;
   background-position-x: center;
