@@ -19,7 +19,7 @@ section {
 
 section.top {
   background-color: white;
-  background-image: url(/img/logo2.png);
+  background-image: url('https://raw.githubusercontent.com/tyukei/Marp_themes/main/img/logo.png');
   background-repeat: no-repeat;
   background-size: 500px;
   background-position-x: center;
