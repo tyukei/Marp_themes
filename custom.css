@@ -19,7 +19,7 @@ section {
 
 section.top {
   background-color: white;
-  background-image: url(./img/logo.png);
+  background-image: url(https://github.com/tyukei/Marp_themes/blob/main/img/logo.png);
   background-repeat: no-repeat;
   background-size: 500px;
   background-position-x: center;
@@ -43,7 +43,7 @@ section.top h2 {
 
 section.normal {
   padding: 50px 50px 50px 50px;
-  background-image: url(./img/logo2.png);
+  background-image: url(https://github.com/tyukei/Marp_themes/blob/main/img/logo2.png);
   background-repeat: no-repeat;
   background-size: 150px;
   background-position-x: 750px;
@@ -86,7 +86,7 @@ section.impact h5{
 }
 section.final {
   background-color: white;
-  background-image: url(./img/logo3.png);
+  background-image: url(https://github.com/tyukei/Marp_themes/blob/main/img/logo3.png);
   background-repeat: no-repeat;
   background-size: 800px;
   background-position-x: center;
